@@ -5,7 +5,7 @@ of concrete surfaces containing cracks.
 
 The archicteture is based on [U-Net](https://arxiv.org/abs/1505.04597), a convolutional network used initialy for segmentation of biomedical images, and in its [adaptation](https://keras.io/examples/vision/oxford_pets_image_segmentation/) provided by the Keras documentation. Below, a representation of it:
 
-![cnn]()
+![cnn](https://github.com/joaorobson/machine_learning/blob/main/notebooks/crack_segmentation/cnn%20Diagram.jpg)
 
 The notebook was inspired by [this](https://github.com/khanhha/crack_segmentation) GitHub project.
 
